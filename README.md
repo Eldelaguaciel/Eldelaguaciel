@@ -31,7 +31,11 @@
 
 <br clear="both">
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+I am a passionate software developer with a strong focus on full-stack development, particularly using the Django framework for web applications. With a solid background in database management, including both relational databases like PostgreSQL and SQL, as well as non-relational systems such as MongoDB, I bring expertise in building robust and scalable systems. My deep knowledge of Python, paired with proficiency in front-end technologies like React, enables me to deliver seamless user experiences.
+
+I’m also skilled in system administration, especially within Linux environments, with hands-on experience in distributions like Ubuntu, Pop!_OS, and Debian. My proficiency in networking adds an additional layer to my versatility as a tech professional.
+
+Currently, I’m sharpening my skills in Kotlin and React to stay at the cutting edge of modern development. Beyond coding, I’m passionate about fitness and bodybuilding, constantly working to achieve new milestones in both my career and personal life.
 
 ###
 
